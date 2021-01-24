@@ -3,13 +3,13 @@
 		"type": "azure-arm",
 
         
-     "client_id": "<TODO = Service Princple ID>",
-     "client_secret": "<TODO = Servie Principle Secret>",
-     "tenant_id": "<TODO = id of Azure AD tenant>",    
-          
-     "subscription_id": "<TODO = id of sub.>", 
-     "managed_image_resource_group_name": "<TODO = name of RG to keep the image>",
-     "managed_image_name": "<TODO = name of image>",
+     		"client_id": "<TODO = Service Princple ID>",
+		"client_secret": "<TODO = Servie Principle Secret>",
+		"tenant_id": "<TODO = id of Azure AD tenant>",    
+
+		"subscription_id": "<TODO = id of sub.>", 
+		"managed_image_resource_group_name": "<TODO = name of RG to keep the image>",
+		"managed_image_name": "<TODO = name of image>",
 
 		"os_type": "Windows",
  		"image_publisher": "MicrosoftWindowsServer",
