@@ -1,0 +1,7 @@
+#PACKER SAMPLE
+
+#https://www.packer.io/docs/builders/azure/arm
+
+#az ad sp create-for-rbac --role Contributor --query "{ client_id: appId, client_secret: password, tenant_id: tenant }"
+
+#./packer build ubuntuVM.json
